@@ -10,7 +10,7 @@
 
 ### 🧰 Projects
 
-| | |
+| project | what it does|
 |---|---|
 | **[Heftmap](https://github.com/notime-labs/heftmap)** | See what weighs, what's used and what changes in your repo. Treemap, orphan files and git hotspots for VS Code & Cursor. |
 
